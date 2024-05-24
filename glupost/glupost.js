@@ -1,4 +1,4 @@
-const accessKey = 'KcgzOsl1TPyllony-RbgM7N5SCh4SuvUutwJxCFTEws';
+const accessKey = 'YOUR API KEY';
 function getImage(){
     
     const imageName=document.querySelector('input').value;
